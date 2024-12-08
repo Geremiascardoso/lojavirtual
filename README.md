@@ -1,1 +1,3 @@
 # lojavirtual
+
+Texto para commitar
